@@ -26,9 +26,9 @@ public class MainActivity extends AppCompatActivity {
         List<String> title=new ArrayList<>();
         List<Integer> image=new ArrayList<>();
 
-        title.add("Student Mentorship Programme");
+        title.add("SMP");
         title.add("PDS Doubt Sessions");
-        title.add("ET Doubt SSessions");
+        title.add("ET Doubt Sessions");
         title.add("Examania");
 
 
